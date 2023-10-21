@@ -1,4 +1,8 @@
-# ICJ Bootstrap Template
+# Bootstrap 5 mastery class project
+
+Started 10/16 by Gracie Warhurst
+
+## ICJ Bootstrap Template
 
 This template goes along with the [Bootstrap lessons](https://utdata.github.io/icj-class/bs-00-intro.html) for Intro to Coding for Journalists.
 
