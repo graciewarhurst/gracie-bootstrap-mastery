@@ -39,3 +39,14 @@ footer {
   margin-right: auto;
   padding: 30px;
 }
+
+.navbar-nav {
+  a:hover {
+    text-decoration: underline;
+  }
+}
+
+.byline {
+  font-style: italic;
+  font-weight: bold;
+}
